@@ -31,5 +31,8 @@
         ".vscode{,/**}"
     ],
     "appService.defaultWebAppToDeploy": "/subscriptions/8bb0822c-d81e-46f9-b8f9-13f748f7d0c5/resourceGroups/rg-displaycsv/providers/Microsoft.Web/sites/displaycsv-webapp-julia",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "cSpell.words": [
+        "gunicorn"
+    ]
 }
